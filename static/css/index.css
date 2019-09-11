@@ -1,0 +1,52 @@
+html,body{
+	height:100%;
+	position:relative;
+}
+#box{
+	box-sizing:border-box;
+	width:100%;
+	height:84%;
+	padding:5px;
+	position:absolute;
+	top:0;
+	overflow-y:auto;
+}
+/*table*/
+table{
+	width:100%;
+	text-align:center;
+}
+table th,table td{
+	box-sizing:border-box;
+	padding:3px;
+	border:2px solid #89a;
+}
+#control{
+	width:100%;
+	height:100px;
+	display:flex;
+	flex-direction:column;
+	position:absolute;
+	bottom:0;
+	background:#eee;
+}
+/*form*/
+.form{
+	width:100%;
+	height:30%;
+	margin-bottom:1%;
+}
+.form input{
+	float:left;
+	width:40%;
+	height:100%;
+	padding:0;
+	border:none;
+	border:2px solid #bbb;
+	border-radius:10px;
+	text-indent:1em;
+}
+.form input:nth-of-type(3){
+	width:17%;
+	text-indent:0;
+}
