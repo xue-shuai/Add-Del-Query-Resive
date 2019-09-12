@@ -3,7 +3,7 @@
 
 # 前提准备
 
- 1.首选电脑上需要装有Navicat for MySQL和Node.js，这是必须的
+ 1.首选电脑上需要装有服务器环境相关的软件，Navicat for MySQL和Node.js，这是必须的
 
  2.需要有一个test数据库(你可以自行修改数据库，根据你所修改的命名即可)，需要有一个user表，表中需要有一个userid、username、password字段(表名，字段名称，根据你自己的修改即可)
 
