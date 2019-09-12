@@ -21,5 +21,5 @@
  
  6.浏览器localhost打开index.html即可
  
- # 实例
+ # 示例
  CSDN博客中有示例图：https://blog.csdn.net/qq_41980461/article/details/100765900
