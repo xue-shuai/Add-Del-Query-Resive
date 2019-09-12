@@ -17,6 +17,6 @@
   
  4.git clone git@github.com:xue-shuai/Add-Del-Query-Resive.git
  
- 5.打开服务器环境，修改base.js中你的服务器地址与端口，用户名密码
+ 5.打开服务器环境，修改base.js中你的服务器地址与端口，数据库用户名密码
  
  6.浏览器localhost打开index.html即可
