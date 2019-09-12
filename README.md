@@ -20,3 +20,6 @@
  5.打开服务器环境，修改base.js中你的服务器地址与端口，数据库用户名密码
  
  6.浏览器localhost打开index.html即可
+ 
+ # 实例
+ CSDN博客中有示例图：https://blog.csdn.net/qq_41980461/article/details/100765900
