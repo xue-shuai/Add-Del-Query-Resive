@@ -8,7 +8,7 @@ app.listen('8000',()=>console.log('服务启动'))
 const option = {
 	host:'localhost',
 	user:'root',
-	password:'123456',
+	password:'',
 	port:'3306',
 	database:'test',
 	connectTimeout:5000, // 连接超时
